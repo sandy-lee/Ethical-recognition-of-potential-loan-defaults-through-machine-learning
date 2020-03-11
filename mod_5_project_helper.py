@@ -3,7 +3,7 @@
 
 def drop_column_keyword_search(dataframe = None, keywords = None):
     """
-    blah blah blah
+    This function deletes columns from a Pandas dataframe it receives an argument based on keywords also as arguments
     """
 
     regex = ""
@@ -12,7 +12,7 @@ def drop_column_keyword_search(dataframe = None, keywords = None):
     regex = regex[:-1]
     updated_df = dataframe[dataframe.columns.drop(list
                                                   (dataframe.filter
-                                                   (regex=regex, axis=1)))]
+                                                  (regex=regex, axis=1)))]
     return updated_df
 
 
@@ -39,9 +39,10 @@ def set_environment():
     This is a function to set environment variables in the notebook. Takes no arguments. Returns environment settings.
     """
 
-    return (pd.set_option('display.max_columns', None),
-            warnings.filterwarnings('ignore'))
-#           pd.set_option('display.max_rows', None)
+    return [pd.set_option('display.max_columns', None),
+            warnings.filterwarnings('ignore'),
+            pd.set_option('display.max_rows', None)]
+
 
 def correlation_matrix(df=None):
     """
