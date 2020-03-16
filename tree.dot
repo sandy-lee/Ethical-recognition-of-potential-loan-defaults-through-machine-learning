@@ -1,0 +1,21 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label="credit_score <= 3305.5\ngini = 0.5\nsamples = 11966\nvalue = [6004, 5962]\nclass = fully_paid", fillcolor="#fffefe"] ;
+1 [label="credit_score <= 698.5\ngini = 0.489\nsamples = 10411\nvalue = [4449, 5962]\nclass = default", fillcolor="#cde6f8"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="annual_income <= 1927094.0\ngini = 0.495\nsamples = 2633\nvalue = [1452, 1181]\nclass = fully_paid", fillcolor="#fae7da"] ;
+1 -> 2 ;
+3 [label="gini = 0.488\nsamples = 2128\nvalue = [1226, 902]\nclass = fully_paid", fillcolor="#f8decb"] ;
+2 -> 3 ;
+4 [label="gini = 0.494\nsamples = 505\nvalue = [226, 279]\nclass = default", fillcolor="#d9ecfa"] ;
+2 -> 4 ;
+5 [label="credit_score <= 741.5\ngini = 0.474\nsamples = 7778\nvalue = [2997, 4781]\nclass = default", fillcolor="#b5daf5"] ;
+1 -> 5 ;
+6 [label="gini = 0.484\nsamples = 6411\nvalue = [2635, 3776]\nclass = default", fillcolor="#c3e1f7"] ;
+5 -> 6 ;
+7 [label="gini = 0.389\nsamples = 1367\nvalue = [362, 1005]\nclass = default", fillcolor="#80c0ee"] ;
+5 -> 7 ;
+8 [label="gini = 0.0\nsamples = 1555\nvalue = [1555, 0]\nclass = fully_paid", fillcolor="#e58139"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}
