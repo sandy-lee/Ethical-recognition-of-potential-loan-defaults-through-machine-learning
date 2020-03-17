@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1fd4fc7-443b-4046-bba7-486c2af7fae4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/X_train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/X_train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/central_notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/central_notebook.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YwmJIZdkIFC2cQC6tLuofIeEKW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.mod_5_project_helper">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="flatiron_school_mod_5_group_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/opt/anaconda3/envs/learn-env/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mod_5_project_helper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flatiron_school_mod_5_group_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/opt/anaconda3/envs/learn-env/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mod_5_project_helper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flatiron_school_mod_5_group_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/opt/anaconda3/envs/learn-env/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/variables.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mod_5_project_helper" />
+        <item itemvalue="Python.variables" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1fd4fc7-443b-4046-bba7-486c2af7fae4" name="Default Changelist" comment="" />
+      <created>1583861958907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583861958907</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Adding helper file for notebook EDL">
+      <created>1583862801436</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583862801436</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Configuring environment">
+      <created>1583863460307</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583863460307</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding helper file for notebook EDL" />
+    <MESSAGE value="Configuring environment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Configuring environment" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="394" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583863076151">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state x="394" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1004/1920.23.1440.877@0.23.1920.1004" timestamp="1583863076151" />
+    <state x="648" y="275" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583862001305">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="648" y="275" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080/1920.0.1440.900@0.0.1920.1080" timestamp="1583862001305" />
+    <state x="575" y="104" key="CommitChangelistDialog2" timestamp="1583863459959">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state x="575" y="104" key="CommitChangelistDialog2/0.23.1920.1004/1920.23.1440.877@0.23.1920.1004" timestamp="1583863459959" />
+    <state width="1440" height="252" key="GridCell.Tab.0.bottom" timestamp="1583961463982">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="252" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583961463982" />
+    <state width="1440" height="252" key="GridCell.Tab.0.center" timestamp="1583961463980">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="252" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583961463980" />
+    <state width="1440" height="252" key="GridCell.Tab.0.left" timestamp="1583961463980">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="252" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583961463980" />
+    <state width="1440" height="252" key="GridCell.Tab.0.right" timestamp="1583961463981">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="252" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583961463981" />
+    <state x="439" y="141" key="SettingsEditor" timestamp="1583863374615">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state x="439" y="141" key="SettingsEditor/0.23.1920.1004/1920.23.1440.877@0.23.1920.1004" timestamp="1583863374615" />
+    <state x="530" y="242" key="Vcs.Push.Dialog.v2" timestamp="1583863549854">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state x="530" y="242" key="Vcs.Push.Dialog.v2/0.23.1920.1004/1920.23.1440.877@0.23.1920.1004" timestamp="1583863549854" />
+    <state x="653" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1584006449579">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="490" y="309" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1583935788631" />
+    <state x="653" y="372" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.0.1440.900@0.0.1920.1080" timestamp="1584006449579" />
+    <state x="735" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583863408546">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state x="735" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.1004/1920.23.1440.877@0.23.1920.1004" timestamp="1583863408546" />
+  </component>
+</project>
