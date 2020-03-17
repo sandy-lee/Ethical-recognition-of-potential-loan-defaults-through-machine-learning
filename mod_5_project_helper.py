@@ -263,3 +263,4 @@ def opt_plots(opt_model):
     plt.subplot(122)
     sns.heatmap(pd.pivot_table(opt,index='max_depth',columns='min_samples_leaf',values='mean_test_score')*100)
     plt.title('ROC_AUC - Validation')
+
