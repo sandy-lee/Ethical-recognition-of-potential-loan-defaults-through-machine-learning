@@ -1,4 +1,4 @@
-# Mod 5 Project - Ethical recognition of potential loan defaults through machine learning
+# Ethical recognition of potential loan defaults through machine learning
 
 # Problem framing
 
